@@ -1,9 +1,11 @@
 <h1>dự án xây dựng hệ thống quản lý học tập - Mitech Elearning</h1>
 <h3>Nhóm thực hiện : Team DCH Trường đại học thông tin liên lạc</h3>
 <h3>Thành viên : </h3>
-Nguyễn Quốc Đạt
-Trần Xuân Cường
-Phan Văn Hải
+<ul>
+<li>Nguyễn Quốc Đạt</li>
+<li>Trần Xuân Cường</li>
+<li>Phan Văn Hải</li>
+</ul>
 <h2>Mục tiêu dự án :</h2>
 
 Xây dựng và phát triển thành công hệ thống quản lý học tập ( Learning Management System ) cho trung tâm công nghệ - Ngoại ngữ Mitech bằng Moodle , một hệ thống mã nguồn mở ( miễn phí và cho phép chỉnh sửa mã nguồn )
