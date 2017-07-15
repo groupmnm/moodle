@@ -1,4 +1,4 @@
-<h1>dự án xây dựng hệ thống quản lý học tập - Mitech Elearning</h1>
+<h1>Dự án xây dựng hệ thống quản lý học tập - Mitech Elearning</h1>
 <h3>Nhóm thực hiện : Team DCH Trường đại học thông tin liên lạc</h3>
 <h3>Thành viên : </h3>
 <ul>
