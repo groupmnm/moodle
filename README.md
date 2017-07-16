@@ -28,5 +28,4 @@ SEO top tìm kiếm google
 <li>Cộng đồng Moodle ở Việt Nam được thành lập tháng 3 năm 2005 với mục đích xây dựng phiên bản tiếng việt và hỗ trợ các trường triển khai Moodle.</li>
 <li>Moodle rất đáng tin cậy , có trên 10 000 site (thống kê tại moodle.org) trên thế giới đã dùng tại 160 quốc gia và đã được dịch ra 75 ngôn ngữ khác nhau.</li>
 </ol><h2>Thông tin giấy phép GNU License</h2>
-Đọc tại [Đây] ( https://www.google.com )
-Ngôn ngữ này khá đơn giản, bạn có thể đọc tại [đây](http://daringfireball.net/projects/markdown/syntax) để biết cách sử dụng.
+Đọc tại [Đây] (https://github.com/groupmnm/moodle/blob/master/LICENSE)
