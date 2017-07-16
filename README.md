@@ -29,3 +29,4 @@ SEO top tìm kiếm google
 <li>Moodle rất đáng tin cậy , có trên 10 000 site (thống kê tại moodle.org) trên thế giới đã dùng tại 160 quốc gia và đã được dịch ra 75 ngôn ngữ khác nhau.</li>
 </ol><h2>Thông tin giấy phép GNU License</h2>
 Đọc tại [Đây] ( https://www.google.com )
+Ngôn ngữ này khá đơn giản, bạn có thể đọc tại [đây](http://daringfireball.net/projects/markdown/syntax) để biết cách sử dụng.
